@@ -1,0 +1,51 @@
+
+
+{
+  "login":[
+    {"name":"manali","password":"abc@123"}
+  ],
+  "restaurant": [
+    {
+      "id": 1,
+      "name": "Pizza Hut",
+      "address": "Science City",
+      "rating": "4.5",
+      "email": "pizzahut@test.com"
+    },
+    {
+      "id": 2,
+      "name": "McDonald",
+      "address": "Navrangpura",
+      "rating": "4",
+      "email": "mcdonald@test.com"
+    },
+    {
+      "id": 3,
+      "name": "Dominoz",
+      "address": "Pragatinagar",
+      "rating": "4.5",
+      "email": "dominoz@test.com"
+    },
+    {
+      "id": 4,
+      "name": "LA'PINOZ",
+      "address": "Science City",
+      "rating": "4.5",
+      "email": "lapinoz@test.com"
+    },
+    {
+      "id": 5,
+      "name": "Haldiram",
+      "address": "Prahladnagar",
+      "rating": "4",
+      "email": "haldiram@test.com"
+    },
+    {
+      "id": 6,
+      "name": "KFC",
+      "address": "Science City",
+      "rating": "3.5",
+      "email": "kfc@test.com"
+    }
+  ]
+}
